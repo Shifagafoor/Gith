@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+.head{
+    display: flex;
+}
+.top{
+    display: flex;
+    background: url(img/rs=w_450\,m.webp);
+}
